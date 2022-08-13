@@ -1,0 +1,117 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.resimSlider{
+    height: 600px;
+}
+
+
+.navbar-brand:hover{
+    max-width: max-content;
+    /* opacity: 0.8; */
+    background:black; 
+    color:white;
+    
+}
+body{
+    padding-top: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.hakkimizda{
+    background-color: #f2f2f2;
+}
+
+.ayrac{
+    border:none;
+    border-top:3px solid #343a40 ;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.ibeyaz{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+
+.igri{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.card>img:hover{
+    opacity: 0.8;
+}
+
+.galeri{
+    background-color: #f2f2f2;
+}
+
+.figure:hover{
+    opacity: 0.8;
+}
+
+/* Contact */
+
+#contact h2 {
+
+    margin-top: 5%;
+    
+    font-size: 1.5rem;
+    color: #2c3e50;
+    text-align: center;
+}
+
+#contact-form {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.form-group {
+    border-bottom: 2px solid #e9ecef;
+    padding-bottom: 2rem;
+    margin-bottom: 3rem;
+}
+
+.form-group input, .form-group textarea {
+    width: 100%;
+    font-size: 1.5rem;
+    border: none;
+}
+
+.form-group input:focus {
+    outline: 0;
+}
+
+.form-group textarea:focus {
+    outline: 0;
+}
+
+
+.btn-primary {
+    background-color: #1ABC9B;
+    border-color: #1ABC9B;
+    padding: 1.2rem 1rem;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #128f76;
+    border-color: #128f76;
+}
+
+
