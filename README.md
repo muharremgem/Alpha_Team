@@ -6,7 +6,7 @@ Project aims to create Alpha_Team within html and css.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Alpha_Team](https://muharremgem.github.io/HTML_CSS_Alpha_Team/)| Html Css  |![Alpha_Team](./images/alpha.gif)
+[Alpha_Team](https://muharremgem.github.io/HTML_CSS_Alpha_Team/)| Html Css  |![Alpha_Team](./img/alpha.gif)
 
 
 ## Problem Statement
